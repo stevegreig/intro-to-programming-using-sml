@@ -1,2 +1,2 @@
-# intro-to-programming-using-sml
-Solutions from "Introduction to Programming Using SML" by Michael R. Hansen and Hans Rischel
+# Introduction to Programming Using SML
+Coded solutions from "Introduction to Programming Using SML" by Michael R. Hansen and Hans Rischel (1999)
